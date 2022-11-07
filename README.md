@@ -1,6 +1,9 @@
 # Resources
 Various resources
 
+## General
+- [Refactoring Guru](https://refactoring.guru)
+
 ## CSS
 - [CSS Properties Demo](https://www.w3schools.com/cssref/playdemo.php?filename=playcss_accent-color)
 
