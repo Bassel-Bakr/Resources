@@ -5,7 +5,7 @@ Various resources
 - [Refactoring Guru](https://refactoring.guru/)
 - [MDN Web Docs](https://developer.mozilla.org/)
 
-# Algorithms / Data Structures
+## Algorithms / Data Structures
 - [CP Algorithms](https://cp-algorithms.com/)
 
 ## CSS
