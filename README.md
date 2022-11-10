@@ -17,3 +17,4 @@ Various resources
 
 - [You might not need *](https://youmightnotneed.com/)
 - [RxJs](https://rxjs.dev/)
+- [Angular Change Detection Guide](https://mokkapps.de/blog/the-last-guide-for-angular-change-detection-you-will-ever-need/)
