@@ -18,3 +18,4 @@ Various resources
 - [You might not need *](https://youmightnotneed.com/)
 - [RxJs](https://rxjs.dev/)
 - [Angular Change Detection Guide](https://mokkapps.de/blog/the-last-guide-for-angular-change-detection-you-will-ever-need/)
+- [Angular Event Manager Plugin](https://gist.github.com/bennadel/2afc2794af82b726f027cd28b6067bd2)
