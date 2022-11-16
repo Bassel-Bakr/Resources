@@ -4,6 +4,8 @@ Various resources
 ## General
 - [Refactoring Guru](https://refactoring.guru/)
 - [MDN Web Docs](https://developer.mozilla.org/)
+- [RFC Docs](https://www.rfc-editor.org/)
+- [RFC HTTP Semantics](https://www.rfc-editor.org/rfc/rfc9110.html)
 
 ## Algorithms / Data Structures
 - [CP Algorithms](https://cp-algorithms.com/)
@@ -14,7 +16,6 @@ Various resources
 - [Layout Performance](https://kellegous.com/j/2013/01/26/layout-performance/)
 
 ## Javascript / Typescript
-
 - [You might not need *](https://youmightnotneed.com/)
 - [RxJs](https://rxjs.dev/)
 - [Angular Change Detection Guide](https://mokkapps.de/blog/the-last-guide-for-angular-change-detection-you-will-ever-need/)
