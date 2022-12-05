@@ -14,6 +14,8 @@ Various resources
 - [CSS Properties Demo](https://www.w3schools.com/cssref/playdemo.php?filename=playcss_accent-color)
 - [Layout Reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
 - [Layout Performance](https://kellegous.com/j/2013/01/26/layout-performance/)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [CSS Grid Garden](https://cssgridgarden.com/)
 
 ## Javascript / Typescript
 - [You might not need *](https://youmightnotneed.com/)
