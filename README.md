@@ -6,6 +6,7 @@ Various resources
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [RFC Docs](https://www.rfc-editor.org/)
 - [RFC HTTP Semantics](https://www.rfc-editor.org/rfc/rfc9110.html)
+- [Laws of UX](https://lawsofux.com/)
 
 ## Algorithms / Data Structures
 - [CP Algorithms](https://cp-algorithms.com/)
