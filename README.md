@@ -18,6 +18,7 @@ Various resources
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [CSS Grid Garden](https://cssgridgarden.com/)
 - [Useful CSS Tools](https://dev.to/lissy93/super-useful-css-resources-1ba3)
+- [Collapsing Margins](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
 
 ## Javascript / Typescript
 - [You might not need *](https://youmightnotneed.com/)
